@@ -16,7 +16,7 @@ module.exports = (() => {
                 }
             ],
             version: '1.5.6',
-            description: 'Send emoji external emoji and animated emoji without Nitro.',
+            description: 'niente nitro? nessun problema :).',
             github: 'https://github.com/QbDesu/BetterDiscordAddons/blob/potato/Plugins/Freemoji',
             github_raw: 'https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js'
         },
