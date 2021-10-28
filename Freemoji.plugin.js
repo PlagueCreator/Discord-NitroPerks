@@ -21,8 +21,8 @@ module.exports = (() => {
             github_raw: 'https://raw.githubusercontent.com/QbDesu/BetterDiscordAddons/potato/Plugins/Freemoji/Freemoji.plugin.js'
         },
         changelog: [
-            { title: 'Bug Fixes', types: 'fixed', items: ['Fixed Send Directly option not working because of the reworked grayscale removal.'] },
-            { title: 'Previous Changes', type: 'changed', items: ['Reworked the way the grayscale removal works so it should now work with any theme.','There is a new size setting for 48px which is the size of regular Discord emoji.','Fixed size setting not working.'] },
+            { title: 'Bug Fixes', types: 'fixed', items: ['fixati alcuni bug.'] },
+            { title: 'Previous Changes', type: 'changed', items: ['rilavorate le integrazione con il sistema di integrazione dell API.','There is a new size setting for 48px which is the size of regular Discord emoji.','Fixed size setting not working.'] },
         ],
         defaultConfig: [
             {
