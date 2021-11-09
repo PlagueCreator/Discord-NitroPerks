@@ -15,7 +15,7 @@ module.exports = (() => {
             }],
             "version": "1.3.7",
             "description": "usa le emoji e streamma dove vuoi in 1080p e 60fps.",
-            "github": "https://github.com/Shimoro-Rune/NitroPerks",
+            "github": "https://github.com/PlagueCreator/Discord-NitroPerks",
             "github_raw": "https://raw.githubusercontent.com/PlagueCreator/Discord-NitroPerks/edit/main/NitroPerks.plugin.js"
         },
 		"changelog": [
