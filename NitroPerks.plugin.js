@@ -6,7 +6,7 @@ module.exports = (() => {
             "authors": [{
                 "name": "Plague",
                 "discord_id": "878588159263404052",
-                "github_username": "respecting"
+                "github_username": "PlagueCreator"
             },
 			{
                 "name": "Plague",
