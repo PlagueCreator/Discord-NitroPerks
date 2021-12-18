@@ -4,4 +4,4 @@ use it with better discord
 
 https://betterdiscord.app/
 
-(not working)
+(probably it doesn't work)
