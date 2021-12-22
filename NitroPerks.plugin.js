@@ -14,23 +14,23 @@ module.exports = (() => {
                 "github_username": "PlagueCreator"
             }],
             "version": "1.3.7",
-            "description": "usa le emoji e streamma dove vuoi in 1080p e 60fps.",
+            "description": "1080p 60FPS everywhere",
             "github": "https://github.com/PlagueCreator/Discord-NitroPerks",
             "github_raw": "https://raw.githubusercontent.com/PlagueCreator/Discord-NitroPerks/edit/main/NitroPerks.plugin.js"
         },
 		"changelog": [
 			{
-				"title": "Banner del profilo",
-				"type": "aggiunto",
+				"title": "profile banner",
+				"type": "added",
 				"items": [
-					"puoi aggiungere dei banner ora!."
+					"you can now use banners"
 				]
 			},
 			{
-				"title": "Fixato il problema dell'avatar",
-				"type": "fixato",
+				"title": "avatar problems are fixed now",
+				"type": "fixed",
 				"items": [
-					"Fixato il problema dell'avatar che non si collegava all'API di discord."
+					"fixed"
 				]
 			}
 		],
