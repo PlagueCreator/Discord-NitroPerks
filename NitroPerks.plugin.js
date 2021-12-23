@@ -5,12 +5,12 @@ module.exports = (() => {
             "name": "NitroPerks",
             "authors": [{
                 "name": "Plague",
-                "discord_id": "878588159263404052",
+                "discord_id": "",
                 "github_username": "PlagueCreator"
             },
 			{
                 "name": "Plague",
-                "discord_id": "878588159263404052",
+                "discord_id": "",
                 "github_username": "PlagueCreator"
             }],
             "version": "1.3.7",
